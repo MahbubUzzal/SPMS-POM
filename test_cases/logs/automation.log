@@ -1,0 +1,246 @@
+07/21/2024 12:44:48 PM - root - INFO - *****  Test_002_Trans_Extra_Income  *****
+07/21/2024 12:44:48 PM - root - INFO - *****  Verifying Transaction of Extra Income  *****
+07/21/2024 12:45:02 PM - root - INFO - ******  Transaction validation  ******* 
+07/21/2024 12:45:44 PM - root - INFO - *****  Test_002_Trans_Extra_Income  *****
+07/21/2024 12:45:44 PM - root - INFO - *****  Verifying Transaction of Extra Income  *****
+07/21/2024 12:45:59 PM - root - INFO - ******  Transaction validation  ******* 
+07/21/2024 12:47:56 PM - root - INFO - *****  Test_002_Trans_Extra_Income  *****
+07/21/2024 12:47:56 PM - root - INFO - *****  Verifying Transaction of Extra Income  *****
+07/21/2024 12:48:11 PM - root - INFO - ******  Transaction validation  ******* 
+07/21/2024 01:02:36 PM - root - INFO - *****  Test_002_Trans_Extra_Income  *****
+07/21/2024 01:02:36 PM - root - INFO - *****  Verifying Transaction of Extra Income  *****
+07/21/2024 01:02:50 PM - root - INFO - ******  Transaction validation  ******* 
+07/21/2024 01:03:53 PM - root - INFO - *****  Test_002_Trans_Extra_Income  *****
+07/21/2024 01:03:53 PM - root - INFO - *****  Verifying Transaction of Extra Income  *****
+07/21/2024 01:04:07 PM - root - INFO - ******  Transaction validation  ******* 
+07/21/2024 01:04:46 PM - root - INFO - *****  Test_002_Trans_Extra_Income  *****
+07/21/2024 01:04:46 PM - root - INFO - *****  Verifying Transaction of Extra Income  *****
+07/21/2024 01:05:00 PM - root - INFO - ******  Transaction validation  ******* 
+07/21/2024 06:17:20 PM - root - INFO - *****  Test_003_Trans_Expense  *****
+07/21/2024 06:17:20 PM - root - INFO - *****  Verifying Transaction of Expense  *****
+07/21/2024 06:17:34 PM - root - ERROR - Test failed due to: Message: invalid selector
+from javascript error: {"status":32,"value":"Unable to locate an element with the xpath expression div[class='field col-12 md:col-6'] div[class='p-dropdown p-component p-inputwrapper p-inputwrapper-filled'] because of the following error:\nSyntaxError: Failed to execute 'evaluate' on 'Document': The string 'div[class='field col-12 md:col-6'] div[class='p-dropdown p-component p-inputwrapper p-inputwrapper-filled']' is not a valid XPath expression."}
+  (Session info: MicrosoftEdge=126.0.2592.113); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#invalid-selector-exception
+Stacktrace:
+	GetHandleVerifier [0x00007FF776DC8132+13538]
+	Microsoft::Applications::Events::EventProperty::~EventProperty [0x00007FF776D51DE9+595465]
+	(No symbol) [0x00007FF776B6E6CF]
+	(No symbol) [0x00007FF776B737C9]
+	(No symbol) [0x00007FF776B756CB]
+	(No symbol) [0x00007FF776B75770]
+	(No symbol) [0x00007FF776BB2516]
+	(No symbol) [0x00007FF776BB2A1F]
+	(No symbol) [0x00007FF776BED627]
+	(No symbol) [0x00007FF776BD203F]
+	(No symbol) [0x00007FF776BA8147]
+	(No symbol) [0x00007FF776BEB1EE]
+	(No symbol) [0x00007FF776BD1C63]
+	(No symbol) [0x00007FF776BA766E]
+	(No symbol) [0x00007FF776BA683C]
+	(No symbol) [0x00007FF776BA7221]
+	Microsoft::Applications::Events::EventProperty::to_string [0x00007FF776F896D4+1099860]
+	Microsoft::Applications::Events::EventProperty::~EventProperty [0x00007FF776CCD8FC+53532]
+	Microsoft::Applications::Events::EventProperty::~EventProperty [0x00007FF776CC0E25+1605]
+	Microsoft::Applications::Events::EventProperty::to_string [0x00007FF776F88665+1095653]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF776D5C961+27777]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF776D56CE4+4100]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF776D56E1B+4411]
+	Microsoft::Applications::Events::EventProperty::~EventProperty [0x00007FF776D4CFA0+575424]
+	BaseThreadInitThunk [0x00007FFFEE68257D+29]
+	RtlUserThreadStart [0x00007FFFF01AAF28+40]
+
+07/21/2024 06:18:20 PM - root - INFO - *****  Test_003_Trans_Expense  *****
+07/21/2024 06:18:20 PM - root - INFO - *****  Verifying Transaction of Expense  *****
+07/21/2024 06:18:33 PM - root - ERROR - Test failed due to: Message: invalid selector
+from javascript error: {"status":32,"value":"Unable to locate an element with the xpath expression div[class='field col-12 md:col-6'] div[class='p-dropdown p-component p-inputwrapper p-inputwrapper-filled'] because of the following error:\nSyntaxError: Failed to execute 'evaluate' on 'Document': The string 'div[class='field col-12 md:col-6'] div[class='p-dropdown p-component p-inputwrapper p-inputwrapper-filled']' is not a valid XPath expression."}
+  (Session info: MicrosoftEdge=126.0.2592.113); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#invalid-selector-exception
+Stacktrace:
+	GetHandleVerifier [0x00007FF776DC8132+13538]
+	Microsoft::Applications::Events::EventProperty::~EventProperty [0x00007FF776D51DE9+595465]
+	(No symbol) [0x00007FF776B6E6CF]
+	(No symbol) [0x00007FF776B737C9]
+	(No symbol) [0x00007FF776B756CB]
+	(No symbol) [0x00007FF776B75770]
+	(No symbol) [0x00007FF776BB2516]
+	(No symbol) [0x00007FF776BB2A1F]
+	(No symbol) [0x00007FF776BED627]
+	(No symbol) [0x00007FF776BD203F]
+	(No symbol) [0x00007FF776BA8147]
+	(No symbol) [0x00007FF776BEB1EE]
+	(No symbol) [0x00007FF776BD1C63]
+	(No symbol) [0x00007FF776BA766E]
+	(No symbol) [0x00007FF776BA683C]
+	(No symbol) [0x00007FF776BA7221]
+	Microsoft::Applications::Events::EventProperty::to_string [0x00007FF776F896D4+1099860]
+	Microsoft::Applications::Events::EventProperty::~EventProperty [0x00007FF776CCD8FC+53532]
+	Microsoft::Applications::Events::EventProperty::~EventProperty [0x00007FF776CC0E25+1605]
+	Microsoft::Applications::Events::EventProperty::to_string [0x00007FF776F88665+1095653]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF776D5C961+27777]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF776D56CE4+4100]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF776D56E1B+4411]
+	Microsoft::Applications::Events::EventProperty::~EventProperty [0x00007FF776D4CFA0+575424]
+	BaseThreadInitThunk [0x00007FFFEE68257D+29]
+	RtlUserThreadStart [0x00007FFFF01AAF28+40]
+
+07/21/2024 06:28:07 PM - root - INFO - *****  Test_003_Trans_Expense  *****
+07/21/2024 06:28:07 PM - root - INFO - *****  Verifying Transaction of Expense  *****
+07/21/2024 06:28:41 PM - root - ERROR - Test failed due to: Message: 
+Stacktrace:
+	GetHandleVerifier [0x00007FF776DC8132+13538]
+	Microsoft::Applications::Events::EventProperty::~EventProperty [0x00007FF776D51DE9+595465]
+	(No symbol) [0x00007FF776B6E6CF]
+	(No symbol) [0x00007FF776BB2960]
+	(No symbol) [0x00007FF776BB2A1F]
+	(No symbol) [0x00007FF776BED627]
+	(No symbol) [0x00007FF776BD203F]
+	(No symbol) [0x00007FF776BA8147]
+	(No symbol) [0x00007FF776BEB1EE]
+	(No symbol) [0x00007FF776BD1C63]
+	(No symbol) [0x00007FF776BA766E]
+	(No symbol) [0x00007FF776BA683C]
+	(No symbol) [0x00007FF776BA7221]
+	Microsoft::Applications::Events::EventProperty::to_string [0x00007FF776F896D4+1099860]
+	Microsoft::Applications::Events::EventProperty::~EventProperty [0x00007FF776CCD8FC+53532]
+	Microsoft::Applications::Events::EventProperty::~EventProperty [0x00007FF776CC0E25+1605]
+	Microsoft::Applications::Events::EventProperty::to_string [0x00007FF776F88665+1095653]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF776D5C961+27777]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF776D56CE4+4100]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF776D56E1B+4411]
+	Microsoft::Applications::Events::EventProperty::~EventProperty [0x00007FF776D4CFA0+575424]
+	BaseThreadInitThunk [0x00007FFFEE68257D+29]
+	RtlUserThreadStart [0x00007FFFF01AAF28+40]
+
+07/21/2024 06:30:47 PM - root - INFO - *****  Test_003_Trans_Expense  *****
+07/21/2024 06:30:47 PM - root - INFO - *****  Verifying Transaction of Expense  *****
+07/21/2024 06:31:21 PM - root - ERROR - Test failed due to: Message: 
+Stacktrace:
+	GetHandleVerifier [0x00007FF776DC8132+13538]
+	Microsoft::Applications::Events::EventProperty::~EventProperty [0x00007FF776D51DE9+595465]
+	(No symbol) [0x00007FF776B6E6CF]
+	(No symbol) [0x00007FF776BB2960]
+	(No symbol) [0x00007FF776BB2A1F]
+	(No symbol) [0x00007FF776BED627]
+	(No symbol) [0x00007FF776BD203F]
+	(No symbol) [0x00007FF776BA8147]
+	(No symbol) [0x00007FF776BEB1EE]
+	(No symbol) [0x00007FF776BD1C63]
+	(No symbol) [0x00007FF776BA766E]
+	(No symbol) [0x00007FF776BA683C]
+	(No symbol) [0x00007FF776BA7221]
+	Microsoft::Applications::Events::EventProperty::to_string [0x00007FF776F896D4+1099860]
+	Microsoft::Applications::Events::EventProperty::~EventProperty [0x00007FF776CCD8FC+53532]
+	Microsoft::Applications::Events::EventProperty::~EventProperty [0x00007FF776CC0E25+1605]
+	Microsoft::Applications::Events::EventProperty::to_string [0x00007FF776F88665+1095653]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF776D5C961+27777]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF776D56CE4+4100]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF776D56E1B+4411]
+	Microsoft::Applications::Events::EventProperty::~EventProperty [0x00007FF776D4CFA0+575424]
+	BaseThreadInitThunk [0x00007FFFEE68257D+29]
+	RtlUserThreadStart [0x00007FFFF01AAF28+40]
+
+07/21/2024 06:33:51 PM - root - INFO - *****  Test_003_Trans_Expense  *****
+07/21/2024 06:33:51 PM - root - INFO - *****  Verifying Transaction of Expense  *****
+07/21/2024 06:34:25 PM - root - ERROR - Test failed due to: Message: 
+Stacktrace:
+	GetHandleVerifier [0x00007FF776DC8132+13538]
+	Microsoft::Applications::Events::EventProperty::~EventProperty [0x00007FF776D51DE9+595465]
+	(No symbol) [0x00007FF776B6E6CF]
+	(No symbol) [0x00007FF776BB2960]
+	(No symbol) [0x00007FF776BB2A1F]
+	(No symbol) [0x00007FF776BED627]
+	(No symbol) [0x00007FF776BD203F]
+	(No symbol) [0x00007FF776BA8147]
+	(No symbol) [0x00007FF776BEB1EE]
+	(No symbol) [0x00007FF776BD1C63]
+	(No symbol) [0x00007FF776BA766E]
+	(No symbol) [0x00007FF776BA683C]
+	(No symbol) [0x00007FF776BA7221]
+	Microsoft::Applications::Events::EventProperty::to_string [0x00007FF776F896D4+1099860]
+	Microsoft::Applications::Events::EventProperty::~EventProperty [0x00007FF776CCD8FC+53532]
+	Microsoft::Applications::Events::EventProperty::~EventProperty [0x00007FF776CC0E25+1605]
+	Microsoft::Applications::Events::EventProperty::to_string [0x00007FF776F88665+1095653]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF776D5C961+27777]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF776D56CE4+4100]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF776D56E1B+4411]
+	Microsoft::Applications::Events::EventProperty::~EventProperty [0x00007FF776D4CFA0+575424]
+	BaseThreadInitThunk [0x00007FFFEE68257D+29]
+	RtlUserThreadStart [0x00007FFFF01AAF28+40]
+
+07/21/2024 06:42:39 PM - root - INFO - *****  Test_003_Trans_Expense  *****
+07/21/2024 06:42:39 PM - root - INFO - *****  Verifying Transaction of Expense  *****
+07/21/2024 06:43:13 PM - root - ERROR - Test failed due to: Message: 
+Stacktrace:
+	GetHandleVerifier [0x00007FF776DC8132+13538]
+	Microsoft::Applications::Events::EventProperty::~EventProperty [0x00007FF776D51DE9+595465]
+	(No symbol) [0x00007FF776B6E6CF]
+	(No symbol) [0x00007FF776BB2960]
+	(No symbol) [0x00007FF776BB2A1F]
+	(No symbol) [0x00007FF776BED627]
+	(No symbol) [0x00007FF776BD203F]
+	(No symbol) [0x00007FF776BA8147]
+	(No symbol) [0x00007FF776BEB1EE]
+	(No symbol) [0x00007FF776BD1C63]
+	(No symbol) [0x00007FF776BA766E]
+	(No symbol) [0x00007FF776BA683C]
+	(No symbol) [0x00007FF776BA7221]
+	Microsoft::Applications::Events::EventProperty::to_string [0x00007FF776F896D4+1099860]
+	Microsoft::Applications::Events::EventProperty::~EventProperty [0x00007FF776CCD8FC+53532]
+	Microsoft::Applications::Events::EventProperty::~EventProperty [0x00007FF776CC0E25+1605]
+	Microsoft::Applications::Events::EventProperty::to_string [0x00007FF776F88665+1095653]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF776D5C961+27777]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF776D56CE4+4100]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF776D56E1B+4411]
+	Microsoft::Applications::Events::EventProperty::~EventProperty [0x00007FF776D4CFA0+575424]
+	BaseThreadInitThunk [0x00007FFFEE68257D+29]
+	RtlUserThreadStart [0x00007FFFF01AAF28+40]
+
+07/21/2024 06:43:52 PM - root - INFO - *****  Test_003_Trans_Expense  *****
+07/21/2024 06:43:52 PM - root - INFO - *****  Verifying Transaction of Expense  *****
+07/21/2024 06:44:31 PM - root - ERROR - Test failed due to: Message: 
+Stacktrace:
+	GetHandleVerifier [0x00007FF776DC8132+13538]
+	Microsoft::Applications::Events::EventProperty::~EventProperty [0x00007FF776D51DE9+595465]
+	(No symbol) [0x00007FF776B6E6CF]
+	(No symbol) [0x00007FF776BB2960]
+	(No symbol) [0x00007FF776BB2A1F]
+	(No symbol) [0x00007FF776BED627]
+	(No symbol) [0x00007FF776BD203F]
+	(No symbol) [0x00007FF776BA8147]
+	(No symbol) [0x00007FF776BEB1EE]
+	(No symbol) [0x00007FF776BD1C63]
+	(No symbol) [0x00007FF776BA766E]
+	(No symbol) [0x00007FF776BA683C]
+	(No symbol) [0x00007FF776BA7221]
+	Microsoft::Applications::Events::EventProperty::to_string [0x00007FF776F896D4+1099860]
+	Microsoft::Applications::Events::EventProperty::~EventProperty [0x00007FF776CCD8FC+53532]
+	Microsoft::Applications::Events::EventProperty::~EventProperty [0x00007FF776CC0E25+1605]
+	Microsoft::Applications::Events::EventProperty::to_string [0x00007FF776F88665+1095653]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF776D5C961+27777]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF776D56CE4+4100]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF776D56E1B+4411]
+	Microsoft::Applications::Events::EventProperty::~EventProperty [0x00007FF776D4CFA0+575424]
+	BaseThreadInitThunk [0x00007FFFEE68257D+29]
+	RtlUserThreadStart [0x00007FFFF01AAF28+40]
+
+07/21/2024 06:53:55 PM - root - INFO - *****  Test_003_Trans_Expense  *****
+07/21/2024 06:53:55 PM - root - INFO - *****  Verifying Transaction of Expense  *****
+07/21/2024 06:54:14 PM - root - INFO - ******  Expense Transaction validation  ******* 
+07/21/2024 06:54:15 PM - root - ERROR - Test failed due to: assert 'Successful\nExpenses Created' == 'Successful\nIncome Created'
+  
+    Successful
+  - Income Created
+  + Expenses Created
+07/21/2024 06:55:32 PM - root - INFO - *****  Test_003_Trans_Expense  *****
+07/21/2024 06:55:32 PM - root - INFO - *****  Verifying Transaction of Expense  *****
+07/21/2024 06:55:51 PM - root - INFO - ******  Expense Transaction validation  ******* 
+07/21/2024 06:55:51 PM - root - INFO - *****  Transaction of Extra Income added Successfully  *****
+07/21/2024 08:56:10 PM - root - INFO - *****  Test_003_Trans_Expense  *****
+07/21/2024 08:56:10 PM - root - INFO - *****  Verifying Transaction of Expense  *****
+07/21/2024 08:56:20 PM - root - INFO - ******  Expense Transaction validation  ******* 
+07/21/2024 08:56:21 PM - root - INFO - *****  Transaction entry of Expense is Successful *****
+07/21/2024 08:56:21 PM - root - ERROR - Test failed due to: 'Expense' object has no attribute 'random_remarks'
+07/21/2024 09:01:37 PM - root - INFO - *****  Test_003_Trans_Expense  *****
+07/21/2024 09:01:37 PM - root - INFO - *****  Verifying Transaction of Expense  *****
+07/21/2024 09:01:47 PM - root - INFO - ******  Expense Transaction validation  ******* 
+07/21/2024 09:01:48 PM - root - INFO - *****  Transaction entry of Expense is Successful *****
+07/21/2024 09:01:48 PM - root - INFO - *****  Random remarks verified in the table *****

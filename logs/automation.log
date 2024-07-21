@@ -1,0 +1,167 @@
+07/15/2024 01:48:21 PM - root - INFO - ******  Test_002_DDT_login  ******
+07/15/2024 01:48:21 PM - root - INFO - ******  Verifying Login DDT test ******
+07/15/2024 01:48:29 PM - root - INFO - ****** Passed  ******
+07/15/2024 01:58:42 PM - root - INFO - ******  Test_002_DDT_login  ******
+07/15/2024 01:58:42 PM - root - INFO - ******  Verifying Login DDT test ******
+07/15/2024 01:58:50 PM - root - INFO - Test Case Passed for user: testsuper
+07/15/2024 02:54:59 PM - root - INFO - ******  Test_002_DDT_login  ******
+07/15/2024 02:54:59 PM - root - INFO - ******  Verifying Login DDT test ******
+07/15/2024 02:55:07 PM - root - INFO - Test Case Passed for user: testsuper
+07/15/2024 02:55:23 PM - root - INFO - Test Case Passed for user: testsup
+07/15/2024 02:55:39 PM - root - INFO - Test Case Passed for user: testsuper
+07/15/2024 02:55:54 PM - root - INFO - Test Case Passed for user: testsup
+07/15/2024 02:55:54 PM - root - INFO - ********  Login DDT test passed   *****
+07/15/2024 03:15:53 PM - root - INFO - ******  Test_002_DDT_login  ******
+07/15/2024 03:15:53 PM - root - INFO - ******  Verifying Login DDT test ******
+07/15/2024 03:15:58 PM - root - INFO - Test Case Passed for user: testsuper
+07/15/2024 03:16:09 PM - root - INFO - Test Case Passed for user: testsup
+07/15/2024 03:16:19 PM - root - INFO - Test Case Passed for user: testsuper
+07/15/2024 03:16:30 PM - root - INFO - Test Case Passed for user: testsup
+07/15/2024 03:16:30 PM - root - INFO - ********  Login DDT test passed   *****
+07/15/2024 08:39:11 PM - root - INFO - ******  Test_002_DDT_login  ******
+07/15/2024 08:39:11 PM - root - INFO - ******  Verifying Login DDT test ******
+07/15/2024 08:39:16 PM - root - INFO - Test Case Passed for user: testsuper
+07/15/2024 08:39:26 PM - root - INFO - Test Case Passed for user: testsup
+07/15/2024 08:39:37 PM - root - INFO - Test Case Passed for user: testsuper
+07/15/2024 08:39:47 PM - root - INFO - Test Case Passed for user: testsup
+07/15/2024 08:39:47 PM - root - INFO - ********  Login DDT test passed   *****
+07/20/2024 12:42:50 AM - root - INFO - ******  Test_002_DDT_login  ******
+07/20/2024 12:42:50 AM - root - INFO - ******  Verifying Login DDT test ******
+07/20/2024 12:42:52 AM - root - INFO - Test Case Passed for user: testsuper
+07/20/2024 12:43:02 AM - root - INFO - Test Case Passed for user: testsup
+07/20/2024 12:43:13 AM - root - INFO - Test Case Passed for user: testsuper
+07/20/2024 12:43:23 AM - root - INFO - Test Case Passed for user: testsup
+07/20/2024 12:43:23 AM - root - INFO - ********  Login DDT test passed   *****
+07/20/2024 12:49:09 AM - root - INFO - ******  Test_002_DDT_login  ******
+07/20/2024 12:49:09 AM - root - INFO - ******  Verifying Login DDT test ******
+07/20/2024 12:49:11 AM - root - INFO - Test Case Passed for user: testsuper
+07/20/2024 12:49:21 AM - root - INFO - Test Case Passed for user: testsup
+07/20/2024 12:49:31 AM - root - INFO - Test Case Passed for user: testsuper
+07/20/2024 12:49:41 AM - root - INFO - Test Case Passed for user: testsup
+07/20/2024 12:49:41 AM - root - INFO - ********  Login DDT test passed   *****
+07/21/2024 12:00:56 AM - root - INFO - *****  Test_002_Trans_Extra_Income  *****
+07/21/2024 12:00:56 AM - root - INFO - *****  Verifying Transaction of Extra Income  *****
+07/21/2024 12:10:44 AM - root - INFO - *****  Test_002_Trans_Extra_Income  *****
+07/21/2024 12:10:44 AM - root - INFO - *****  Verifying Transaction of Extra Income  *****
+07/21/2024 01:55:32 AM - root - INFO - *****  Test_002_Trans_Extra_Income  *****
+07/21/2024 01:55:32 AM - root - INFO - *****  Verifying Transaction of Extra Income  *****
+07/21/2024 01:55:47 AM - root - INFO - ******  Transaction validation  ******* 
+07/21/2024 12:14:03 PM - root - INFO - *****  Test_002_Trans_Extra_Income  *****
+07/21/2024 12:14:03 PM - root - INFO - *****  Verifying Transaction of Extra Income  *****
+07/21/2024 12:14:18 PM - root - INFO - ******  Transaction validation  ******* 
+07/21/2024 01:16:45 PM - root - INFO - *****  Test_002_Trans_Extra_Income  *****
+07/21/2024 01:16:45 PM - root - INFO - *****  Verifying Transaction of Extra Income  *****
+07/21/2024 01:16:59 PM - root - INFO - ******  Transaction validation  ******* 
+07/21/2024 01:17:00 PM - root - INFO - *****  Transaction of Extra Income added Successfully  *****
+07/21/2024 01:18:04 PM - root - INFO - *****  Test_002_Trans_Extra_Income  *****
+07/21/2024 01:18:04 PM - root - INFO - *****  Verifying Transaction of Extra Income  *****
+07/21/2024 01:18:18 PM - root - INFO - ******  Transaction validation  ******* 
+07/21/2024 01:20:56 PM - root - INFO - *****  Test_002_Trans_Extra_Income  *****
+07/21/2024 01:20:56 PM - root - INFO - *****  Verifying Transaction of Extra Income  *****
+07/21/2024 01:21:10 PM - root - INFO - ******  Transaction validation  ******* 
+07/21/2024 01:35:45 PM - root - INFO - *****  Test_002_Trans_Extra_Income  *****
+07/21/2024 01:35:45 PM - root - INFO - *****  Verifying Transaction of Extra Income  *****
+07/21/2024 01:36:00 PM - root - INFO - ******  Transaction validation  ******* 
+07/21/2024 01:36:00 PM - root - INFO - Actual Message: Successful
+Income Created
+07/21/2024 01:36:00 PM - root - INFO - Expected Message: uccessful
+Income Created
+07/21/2024 01:36:00 PM - root - ERROR - Assertion failed!
+Traceback (most recent call last):
+  File "C:\Users\mahbu\PycharmProjects\SPMS-POM\test_cases\test_trans_extra_income.py", line 47, in test_transaction_extra_income
+    assert actual_message == expected_message, f"Expected '{expected_message}' but got '{actual_message}'"
+AssertionError: Expected 'uccessful
+  Income Created' but got 'Successful
+  Income Created'
+assert 'Successful\nIncome Created' == 'uccessful\nIncome Created'
+  
+  - uccessful
+  + Successful
+  ? +
+    Income Created
+07/21/2024 01:41:12 PM - root - INFO - *****  Test_002_Trans_Extra_Income  *****
+07/21/2024 01:41:12 PM - root - INFO - *****  Verifying Transaction of Extra Income  *****
+07/21/2024 01:47:02 PM - root - INFO - *****  Test_002_Trans_Extra_Income  *****
+07/21/2024 01:47:02 PM - root - INFO - *****  Verifying Transaction of Extra Income  *****
+07/21/2024 01:47:16 PM - root - INFO - ******  Transaction validation  ******* 
+07/21/2024 02:18:51 PM - root - INFO - *****  Test_002_Trans_Extra_Income  *****
+07/21/2024 02:18:51 PM - root - INFO - *****  Verifying Transaction of Extra Income  *****
+07/21/2024 02:19:05 PM - root - INFO - ******  Transaction validation  ******* 
+07/21/2024 02:19:06 PM - root - INFO - *****  Transaction of Extra Income added Successfully  *****
+07/21/2024 02:19:38 PM - root - INFO - *****  Test_002_Trans_Extra_Income  *****
+07/21/2024 02:19:38 PM - root - INFO - *****  Verifying Transaction of Extra Income  *****
+07/21/2024 02:23:44 PM - root - INFO - *****  Test_002_Trans_Extra_Income  *****
+07/21/2024 02:23:44 PM - root - INFO - *****  Verifying Transaction of Extra Income  *****
+07/21/2024 02:24:01 PM - root - INFO - ******  Transaction validation  ******* 
+07/21/2024 02:24:02 PM - root - INFO - *****  Transaction of Extra Income added Successfully  *****
+07/21/2024 02:25:02 PM - root - INFO - *****  Test_002_Trans_Extra_Income  *****
+07/21/2024 02:25:02 PM - root - INFO - *****  Verifying Transaction of Extra Income  *****
+07/21/2024 02:25:16 PM - root - INFO - ******  Transaction validation  ******* 
+07/21/2024 02:25:17 PM - root - INFO - *****  Transaction of Extra Income added Successfully  *****
+07/21/2024 02:25:45 PM - root - INFO - *****  Test_002_Trans_Extra_Income  *****
+07/21/2024 02:25:45 PM - root - INFO - *****  Verifying Transaction of Extra Income  *****
+07/21/2024 02:26:19 PM - root - ERROR - Test failed due to: Message: 
+Stacktrace:
+RemoteError@chrome://remote/content/shared/RemoteError.sys.mjs:8:8
+WebDriverError@chrome://remote/content/shared/webdriver/Errors.sys.mjs:193:5
+NoSuchElementError@chrome://remote/content/shared/webdriver/Errors.sys.mjs:511:5
+dom.find/</<@chrome://remote/content/shared/DOM.sys.mjs:136:16
+
+07/21/2024 04:12:23 PM - root - INFO - *****  Test_002_Trans_Extra_Income  *****
+07/21/2024 04:12:23 PM - root - INFO - *****  Verifying Transaction of Extra Income  *****
+07/21/2024 04:12:37 PM - root - INFO - ******  Transaction validation  ******* 
+07/21/2024 04:12:38 PM - root - INFO - *****  Transaction of Extra Income added Successfully  *****
+07/21/2024 04:13:55 PM - root - INFO - *****  Test_002_Trans_Extra_Income  *****
+07/21/2024 04:13:55 PM - root - INFO - *****  Verifying Transaction of Extra Income  *****
+07/21/2024 04:14:09 PM - root - INFO - ******  Transaction validation  ******* 
+07/21/2024 04:14:09 PM - root - INFO - *****  Transaction of Extra Income added Successfully  *****
+07/21/2024 06:57:55 PM - root - INFO - *****  Test_002_Trans_Extra_Income  *****
+07/21/2024 06:57:55 PM - root - INFO - *****  Verifying Transaction of Extra Income  *****
+07/21/2024 06:58:09 PM - root - INFO - ******  Transaction validation  ******* 
+07/21/2024 06:58:10 PM - root - INFO - *****  Transaction of Extra Income added Successfully  *****
+07/21/2024 07:00:46 PM - root - INFO - *****  Test_002_Trans_Extra_Income  *****
+07/21/2024 07:00:46 PM - root - INFO - *****  Verifying Transaction of Extra Income  *****
+07/21/2024 07:01:11 PM - root - INFO - ******  Transaction validation  ******* 
+07/21/2024 07:01:11 PM - root - INFO - *****  Transaction of Extra Income added Successfully  *****
+07/21/2024 07:01:51 PM - root - INFO - *****  Test_002_Trans_Extra_Income  *****
+07/21/2024 07:01:51 PM - root - INFO - *****  Verifying Transaction of Extra Income  *****
+07/21/2024 07:02:06 PM - root - INFO - ******  Transaction validation  ******* 
+07/21/2024 07:02:06 PM - root - INFO - *****  Transaction of Extra Income added Successfully  *****
+07/21/2024 07:03:10 PM - root - INFO - *****  Test_003_Trans_Expense  *****
+07/21/2024 07:03:10 PM - root - INFO - *****  Verifying Transaction of Expense  *****
+07/21/2024 07:03:38 PM - root - ERROR - Test failed due to: Message: 
+Stacktrace:
+RemoteError@chrome://remote/content/shared/RemoteError.sys.mjs:8:8
+WebDriverError@chrome://remote/content/shared/webdriver/Errors.sys.mjs:193:5
+NoSuchElementError@chrome://remote/content/shared/webdriver/Errors.sys.mjs:511:5
+dom.find/</<@chrome://remote/content/shared/DOM.sys.mjs:136:16
+
+07/21/2024 09:04:32 PM - root - INFO - *****  Test_003_Trans_Expense  *****
+07/21/2024 09:04:32 PM - root - INFO - *****  Verifying Transaction of Expense  *****
+07/21/2024 09:04:41 PM - root - INFO - ******  Expense Transaction validation  ******* 
+07/21/2024 09:04:41 PM - root - INFO - *****  Transaction entry of Expense is Successful *****
+07/21/2024 09:04:41 PM - root - INFO - *****  Random remarks verified in the table *****
+07/21/2024 09:05:17 PM - root - INFO - *****  Test_002_Trans_Extra_Income  *****
+07/21/2024 09:05:17 PM - root - INFO - *****  Verifying Transaction of Extra Income  *****
+07/21/2024 09:05:31 PM - root - INFO - ******  Transaction validation  ******* 
+07/21/2024 09:05:32 PM - root - INFO - *****  Transaction of Extra Income added Successfully  *****
+07/21/2024 09:07:42 PM - root - INFO - *****  Test_003_Trans_Expense  *****
+07/21/2024 09:07:42 PM - root - INFO - *****  Verifying Transaction of Expense  *****
+07/21/2024 09:07:51 PM - root - INFO - ******  Expense Transaction validation  ******* 
+07/21/2024 09:07:52 PM - root - INFO - *****  Transaction entry of Expense is Successful *****
+07/21/2024 09:07:52 PM - root - ERROR - Test failed due to: Message: Given xpath expression ".p-datatable-tbody" is invalid: SyntaxError: Document.evaluate: The expression is not a legal expression; For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#invalid-selector-exception
+Stacktrace:
+RemoteError@chrome://remote/content/shared/RemoteError.sys.mjs:8:8
+WebDriverError@chrome://remote/content/shared/webdriver/Errors.sys.mjs:193:5
+InvalidSelectorError@chrome://remote/content/shared/webdriver/Errors.sys.mjs:432:5
+find_@chrome://remote/content/shared/DOM.sys.mjs:170:11
+
+07/21/2024 09:59:11 PM - root - INFO - *****  Test_002_Trans_Extra_Income  *****
+07/21/2024 09:59:11 PM - root - INFO - *****  Verifying Transaction of Extra Income  *****
+07/21/2024 09:59:25 PM - root - INFO - ******  Transaction validation  ******* 
+07/21/2024 09:59:26 PM - root - INFO - *****  Transaction of Extra Income added Successfully  *****
+07/21/2024 10:00:50 PM - root - INFO - *****  Test_003_Trans_Expense  *****
+07/21/2024 10:00:50 PM - root - INFO - *****  Verifying Transaction of Expense  *****
+07/21/2024 10:00:59 PM - root - INFO - ******  Expense Transaction validation  ******* 
+07/21/2024 10:01:00 PM - root - INFO - *****  Transaction entry of Expense is Successful *****
+07/21/2024 10:01:00 PM - root - INFO - *****  Random remarks verified in the table *****
